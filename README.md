@@ -1,33 +1,33 @@
 [![ldeplace's 42 stats](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/stats?cursusId=21&coalitionId=48)](https://42cv.dev/ldeplace)
 
-Minishell :
 [![ldeplace's 42 minishell Score](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/project/4829928)](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/4829928)
+Minishell :
 
-Philosophers:
 [![ldeplace's 42 Philosophers Score](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/project/4829816)](https://projects.intra.42.fr/projects/42cursus-philosophers/projects_users/4829816)
+Philosophers:
 
-Pipex :
 [![ldeplace's 42 pipex Score](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/project/4731884)](https://projects.intra.42.fr/projects/pipex/projects_users/4731884)
+Pipex :
 
-So_long :
 [![ldeplace's 42 so_long Score](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/project/4704758)](https://projects.intra.42.fr/projects/so_long/projects_users/4704758)
+So_long :
 
-Ft_printf :
 [![ldeplace's 42 ft_printf Score](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/project/4666552)](https://projects.intra.42.fr/projects/42cursus-ft_printf/projects_users/4666552)
+Ft_printf :
 
-Push_swap :
 [![ldeplace's 42 push_swap Score](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/project/4713601)](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/4713601)
+Push_swap :
 
-Born2BeRoot :
 [![ldeplace's 42 Born2beroot Score](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/project/4675487)](https://projects.intra.42.fr/projects/born2beroot/projects_users/4675487)
+Born2BeRoot :
 
-Get_next_line :
 [![ldeplace's 42 get_next_line Score](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/project/4672493)](https://projects.intra.42.fr/projects/42cursus-get_next_line/projects_users/4672493)
+Get_next_line :
 
-Libf :
 [![ldeplace's 42 Libft Score](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/project/4647621)](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/4647621)
+Libf :
 
-Exam_rank2 :
 [![ldeplace's 42 Exam Rank 02 Score](https://42cv.dev/api/badge/cmmm23yq10000dgywpv8dqd2n/project/4704621)](https://projects.intra.42.fr/projects/exam-rank-02/projects_users/4704621)
+Exam_rank2 :
 
 
