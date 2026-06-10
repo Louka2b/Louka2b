@@ -7,12 +7,12 @@
 ## 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Louka2b&show_icons=true&theme=tokyonight" alt="Mes stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Louka2b&show_icons=true&theme=radical" alt="Mes stats GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Louka2b&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louka2b&layout=compact&theme=tokyonight" alt="Les langages que j'utilise" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louka2b&layout=compact&theme=radical" alt="Les langages que j'utilise" />
 </p>
 
 <p align="center">
