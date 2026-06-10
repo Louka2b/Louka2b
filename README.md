@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 Mes Statistiques GitHub
+## My GitHub stat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Louka2b&show_icons=true&theme=radical" alt="Mes stats GitHub" />
